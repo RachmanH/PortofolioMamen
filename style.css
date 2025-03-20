@@ -325,7 +325,7 @@ nav ul li a:hover::after {
 .mario {
     z-index: 1;
     position: absolute;
-    bottom: 0;
+    bottom: -40px;
     left: -100px;
     width: 120px;
     height: 120px;
