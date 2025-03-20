@@ -664,7 +664,7 @@ nav ul li a:hover::after {
 .project-btn {
     background-color: var(--secondary-color);
     color: white;
-    padding: 0.6rem 1.7rem;
+    padding: 0.6rem 1.2rem;
     border: none;
     border-radius: 0.5rem;
     cursor: pointer;
